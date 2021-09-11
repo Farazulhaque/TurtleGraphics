@@ -4,7 +4,7 @@ pen = turtle.Turtle()
 pen.hideturtle()
 pen.speed(0)
 pen.up()
-pen.goto(-200, 200)
+pen.goto(-250, 250)
 pen.down()
 n = int(input("Please enter the numner of sub-divisions: "))
 for i in range(4):
