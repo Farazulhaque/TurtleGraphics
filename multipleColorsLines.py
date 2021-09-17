@@ -23,7 +23,7 @@ for i in range(n):
         pen.forward(initial_len*i+3)
     pen.left(angle)
 pen.up()
-pen.goto(100,-300)
+pen.goto(100, -300)
 pen.down()
 pen.hideturtle()
 pen.write("Click on the window to exit...")
