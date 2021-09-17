@@ -24,5 +24,3 @@ for i in range(n):
     pen.left(angle)
 
 turtle.done()
-
-
