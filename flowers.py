@@ -1,6 +1,7 @@
 import turtle
 from random import randint
 
+turtle.speed(0)
 wn = turtle.Screen()
 wn.bgcolor('green')
 
